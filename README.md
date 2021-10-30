@@ -13,14 +13,61 @@ What is the best classification algorithm to predict the results of two teams ac
 I have taken my code from Kaggle and pushed it onto Github for the remaining future
 
 ## Basic Data Analysis
+
+A selection of Data Analysis to have a quick look at the data 
+
 ### Top Batsmen and Bowlers in the IPL
 
-![](https://github.com/AadilMalik94/IPL-Predictor-using-Regression-and-Classifcation/blob/main/TopBatsmen.PNG)
+![](https://github.com/AadilMalik94/IPL-Predictor-using-Regression-and-Classifcation/blob/main/Images/TopBatsmen.PNG)
 
-![](https://github.com/AadilMalik94/IPL-Predictor-using-Regression-and-Classifcation/blob/main/TopBowlers.PNG)
+![](https://github.com/AadilMalik94/IPL-Predictor-using-Regression-and-Classifcation/blob/main/Images/TopBowlers.PNG)
 
 ### BoxPlots of Teams when winning by Runs and Wickets
 
 A boxplot is a standardized way of displaying the distribution of data based on a five number summary (“minimum”, first quartile (Q1), median, third quartile (Q3), and “maximum”). It can tell you about your outliers and what their values are. It can also tell you if your data is symmetrical, how tightly your data is grouped, and if and how your data is skewed.
 
-![](https://github.com/AadilMalik94/IPL-Predictor-using-Regression-and-Classifcation/blob/main/WinningMarginsTeams.PNG)
+![](https://github.com/AadilMalik94/IPL-Predictor-using-Regression-and-Classifcation/blob/main/Images/WinningMarginsTeams.PNG)
+
+
+## Classification
+
+What is the best classification algorithm to predict the results of two teams accurately, demonstrating the most important features within it?
+I will be using 4 main methodologies below, with key stats used to demonstrate their accuracy and suitability. 
+
+### K Nearest Neighbours 
+
+![](https://github.com/AadilMalik94/IPL-Predictor-using-Regression-and-Classifcation/blob/main/Images/KNN1.PNG)
+
+![](https://github.com/AadilMalik94/IPL-Predictor-using-Regression-and-Classifcation/blob/main/Images/KNN2.PNG)
+
+![](https://github.com/AadilMalik94/IPL-Predictor-using-Regression-and-Classifcation/blob/main/Images/KNN3.PNG)
+
+### Naive Bayes Classifier 
+
+![](https://github.com/AadilMalik94/IPL-Predictor-using-Regression-and-Classifcation/blob/main/Images/NB1.PNG)
+
+![](https://github.com/AadilMalik94/IPL-Predictor-using-Regression-and-Classifcation/blob/main/Images/NB2.PNG)
+
+![](https://github.com/AadilMalik94/IPL-Predictor-using-Regression-and-Classifcation/blob/main/Images/NB3.PNG)
+
+### Decision Tree
+
+![](https://github.com/AadilMalik94/IPL-Predictor-using-Regression-and-Classifcation/blob/main/Images/DT1.PNG)
+
+![](https://github.com/AadilMalik94/IPL-Predictor-using-Regression-and-Classifcation/blob/main/Images/DT2.PNG)
+
+![](https://github.com/AadilMalik94/IPL-Predictor-using-Regression-and-Classifcation/blob/main/Images/DT3.PNG)
+
+### Logisitc Regression
+
+![](https://github.com/AadilMalik94/IPL-Predictor-using-Regression-and-Classifcation/blob/main/Images/LG1.PNG)
+
+![](https://github.com/AadilMalik94/IPL-Predictor-using-Regression-and-Classifcation/blob/main/Images/LG2.PNG)
+
+#### The Most Important Variables
+
+![](https://github.com/AadilMalik94/IPL-Predictor-using-Regression-and-Classifcation/blob/main/Images/VARIMP.PNG)
+
+### Summary of all the Classifiers
+
+![](https://github.com/AadilMalik94/IPL-Predictor-using-Regression-and-Classifcation/blob/main/Images/SUMMARY1.PNG)
