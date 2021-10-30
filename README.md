@@ -71,3 +71,19 @@ I will be using 4 main methodologies below, with key stats used to demonstrate t
 ### Summary of all the Classifiers
 
 ![](https://github.com/AadilMalik94/IPL-Predictor-using-Regression-and-Classifcation/blob/main/Images/SUMMARY1.PNG)
+
+## Regression Analysis 
+
+Now we will be running the bowler's Regression to estimate the total number of runs conceded when they bowl in the IPL
+
+At this point, it is important to remember that we earlier grouped the deliveries data set that is viable for each and every bowler. Having named this as a data strucure, we save this file as a csv and now we call upon it seperately. As with the classification, I have omitted certain columns. You can do so otherwise or keep them at your discretion.
+
+I will be comparing different regression analysis for this section
+
+![](https://github.com/AadilMalik94/IPL-Predictor-using-Regression-and-Classifcation/blob/main/Images/train1.PNG)
+
+![](https://github.com/AadilMalik94/IPL-Predictor-using-Regression-and-Classifcation/blob/main/Images/train2.PNG)
+
+![](https://github.com/AadilMalik94/IPL-Predictor-using-Regression-and-Classifcation/blob/main/Images/train3.PNG)
+
+![](https://github.com/AadilMalik94/IPL-Predictor-using-Regression-and-Classifcation/blob/main/Images/train4.PNG)
