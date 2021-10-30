@@ -11,3 +11,10 @@ The data found from Kaggle. It uses two sets of data based from 2008 -2017; matc
 What is the best classification algorithm to predict the results of two teams accurately, demonstrating the most important features within it? What is the best regression algorithm to predict a bowler’s runs conceded?
 
 I have taken my code from Kaggle and pushed it onto Github for the remaining future
+
+## Basic Data Analysis
+### Top Batsmen and Bowlers in the IPL
+
+![](https://github.com/AadilMalik94/IPL-Predictor-using-Regression-and-Classifcation/blob/main/TopBatsmen.PNG)
+
+![](https://github.com/AadilMalik94/IPL-Predictor-using-Regression-and-Classifcation/blob/main/TopBowlers.PNG)
