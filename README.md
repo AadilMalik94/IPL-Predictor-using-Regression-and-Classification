@@ -18,3 +18,9 @@ I have taken my code from Kaggle and pushed it onto Github for the remaining fut
 ![](https://github.com/AadilMalik94/IPL-Predictor-using-Regression-and-Classifcation/blob/main/TopBatsmen.PNG)
 
 ![](https://github.com/AadilMalik94/IPL-Predictor-using-Regression-and-Classifcation/blob/main/TopBowlers.PNG)
+
+### BoxPlots of Teams when winning by Runs and Wickets
+
+A boxplot is a standardized way of displaying the distribution of data based on a five number summary (“minimum”, first quartile (Q1), median, third quartile (Q3), and “maximum”). It can tell you about your outliers and what their values are. It can also tell you if your data is symmetrical, how tightly your data is grouped, and if and how your data is skewed.
+
+![](https://github.com/AadilMalik94/IPL-Predictor-using-Regression-and-Classifcation/blob/main/WinningMarginsTeams.PNG)
