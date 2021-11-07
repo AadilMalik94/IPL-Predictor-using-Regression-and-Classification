@@ -12,7 +12,7 @@ What is the best classification algorithm to predict the results of two teams ac
 
 I have taken my code from Kaggle and pushed it onto Github for the remaining future
 
-** This Project was originally completed in 2019**
+** This Project was originally completed in 2019 using Python and its libraries**
 
 ## Basic Data Analysis
 
